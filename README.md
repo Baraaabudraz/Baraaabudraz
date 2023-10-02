@@ -1,5 +1,8 @@
+<img src="https://cllax.com/wp-content/uploads/2023/02/Laravel.jpg" />
 <h1 align="center">Hi 👋, I'm Baraa Abu Draz</h1>
 <h3 align="center">Experienced web developer passionate about creating exceptional web apps. Skilled in problem-solving, analysis, and project management.</h3>
+
+🔭 I’m currently working on web applications development<br>👯 I’m looking to collaborate on Laravel Framework<br>🤝 I’m looking for help with we developers<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baraaabudraz&label=Profile%20views&color=0e75b6&style=flat" alt="baraaabudraz" /> </p>
 
