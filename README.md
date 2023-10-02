@@ -4,6 +4,8 @@
 <h1 align="center">Hi 👋, I'm Baraa Abu Draz</h1>
 <h3 align="center">Experienced web developer passionate about creating exceptional web apps. Skilled in problem-solving, analysis, and project management.</h3>
 
+🔭 I’m currently working on web applications development<br>👯 I’m looking to collaborate on Laravel Framework<br>🤝 I’m looking for help with we developers<br>
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/BaraaMohamad.1997) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/baraamohamad.97) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/baraa-abudraz) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dev_baraa) 
 
