@@ -4,8 +4,8 @@
 <h1 align="center">Hi 👋, I'm Baraa Abu Draz</h1>
 <h3 align="center">Experienced web developer passionate about creating exceptional web apps. Skilled in problem-solving, analysis, and project management.</h3>
 
-🔭 Currently honing my skills in building innovative and responsive web applications.
-👯 Eager to collaborate on cutting-edge projects utilizing the Laravel Framework.
+🔭 Currently honing my skills in building innovative and responsive web applications.<br>
+👯 Eager to collaborate on cutting-edge projects utilizing the Laravel Framework.<br>
 🤝 Looking forward to connecting with other developers to exchange insights and expertise!<br>
 Let's create something amazing together. 🌐
 
