@@ -6,7 +6,7 @@
 
 🔭 Currently honing my skills in building innovative and responsive web applications.<br>
 👯 Eager to collaborate on cutting-edge projects utilizing the Laravel Framework.<br>
-🤝 Looking forward to connecting with other developers to exchange insights and expertise!<br>
+🤝 Looking forward to connecting with other developers to exchange insights and expertise!<br><br><br>
 Let's create something amazing together. 🌐
 
 ## 🌐 Socials:
