@@ -36,7 +36,6 @@ I focus on writing clean, maintainable code, designing robust APIs, optimizing d
 ### Frontend
 - JavaScript
 - Vue.js
-- React.js
 - TypeScript
 - Tailwind CSS
 - Bootstrap
@@ -54,7 +53,6 @@ I focus on writing clean, maintainable code, designing robust APIs, optimizing d
 - Git & GitHub
 - GitHub Actions
 - CI/CD
-- Docker
 - Redis
 - Caching Strategies
 - Query Optimization
