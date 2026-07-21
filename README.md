@@ -63,7 +63,7 @@ I focus on writing clean, maintainable code, designing robust APIs, optimizing d
 
 ## 💼 Professional Experience
 
-### Founder & Lead Backend Developer — Up Lancer
+### Founder & Lead Backend Developer - Up Lancer
 
 Leading a software development agency focused on delivering modern web solutions using Laravel and JavaScript technologies.
 
@@ -78,7 +78,7 @@ Responsibilities:
 
 ## ⭐ Featured Projects
 
-### 🏥 Mueen — Humanitarian Management System
+### 🏥 Mueen - Humanitarian Management System
 
 A platform designed to support humanitarian teams by managing displaced family data and aid distribution workflows.
 
@@ -90,7 +90,7 @@ Features:
 
 ---
 
-### 💇 Hairvana — Salon Booking System
+### 💇 Hairvana - Salon Booking System
 
 Full-stack booking platform with modern dashboard architecture.
 
