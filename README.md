@@ -114,12 +114,6 @@ Experience building:
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Baraaabudraz&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baraaabudraz&" alt="baraaabudraz" /></p>
----
 ## 📊 Development Focus
 
 I enjoy working on:
@@ -131,6 +125,11 @@ I enjoy working on:
 ✅ Clean code practices  
 ✅ System performance improvements  
 
+---
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baraaabudraz&" alt="baraaabudraz" /></p>
+
+---
 ---
 
 ## 🤝 Let's Connect
