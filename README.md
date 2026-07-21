@@ -1,6 +1,6 @@
 # Hi, I'm Baraa Abu Draz 👋
 
-## Backend Developer | Laravel & PHP Engineer
+## Backend Developer | Laravel & PHP 
 
 I am a Backend Developer specializing in **Laravel, PHP, and scalable web application architecture**.
 
